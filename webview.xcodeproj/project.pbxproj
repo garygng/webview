@@ -482,6 +482,7 @@
 				92C3CCA71C71AAB700B684FB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		92C3CCA81C71AAB700B684FB /* Build configuration list for PBXNativeTarget "webviewTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +491,7 @@
 				92C3CCAA1C71AAB700B684FB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		92C3CCAB1C71AAB700B684FB /* Build configuration list for PBXNativeTarget "webviewUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +500,7 @@
 				92C3CCAD1C71AAB700B684FB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
